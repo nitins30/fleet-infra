@@ -7,6 +7,6 @@ metadata:
 spec:
   interval: 30s
   ref:
-    branch: master
-  url: https://github.com/nitins30/poc-helm-flux2.git
+    branch: main
+  url: https://github.com/nitins30/poc-helm-flux2
 
