@@ -5,7 +5,7 @@ metadata:
   name: poc-helm-flux2
   namespace: flux-system
 spec:
-  interval: 30s
+  interval: 31s
   ref:
     branch: main
   url: https://github.com/nitins30/poc-helm-flux2
